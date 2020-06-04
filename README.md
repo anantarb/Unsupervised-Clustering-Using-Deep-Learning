@@ -1,1 +1,3 @@
-# Unsupervised-Clustering-Using-Deep-Learning
+## Abstract
+
+Clustering is a machine learning technique where we group similar data points. Unsupervised clustering is one of the challenges in the field of machine learning. It is difficult to learn structure within a dataset due to the high dimensionality of the data. Several techniques such as k-means or Gaussian mixture models are being used to group the data into clusters but, their performance is not promising when we have a large dataset with a high dimension. In this paper, we study several methods to improve clustering performance using deep learning architectures. At first, we use auto-encoder to reduce the big data into latent space and run different clustering techniques on obtained latent space.
